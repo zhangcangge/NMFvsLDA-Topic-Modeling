@@ -13,9 +13,11 @@ it will find and store the 5 determine words of dominant topic to a pickle file.
 The terminal result shown as below:
 
 --------------------------------NMF result--------------------------------
+
 Topic0
 labor shorten morrison coalition election
 --------------------------------LDA result--------------------------------
+
 Topic0
 labor morrison election coalition shorten
 
