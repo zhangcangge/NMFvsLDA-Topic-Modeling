@@ -5,7 +5,7 @@ Besides topic modeling, this project also will find the 5 common context words o
 It contain two 'py' file, NMFvsLDA-Topic-Modeling.py and FindContextWords.py.
 It also contain a folder "20Articles" that collected today news about "Australian election" from different website.
 
-#-------------------------------------------First step-------------------------------------------
+#First step
 
 Run NMFvsLDA-Topic-Modeling.py first, 
 it will build two models based on NMF and LDA respectively, to find the most important topic.
@@ -23,7 +23,7 @@ Topic0
 labor morrison election coalition shorten
 
      
-#-------------------------------------------Sencond step-------------------------------------------
+#Sencond step
 
 Then, run FindContextWords.py,
 it will load the pickle file that was created in first step,
