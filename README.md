@@ -16,6 +16,7 @@ The terminal result shown as below:
 
 Topic0
 labor shorten morrison coalition election
+
 --------------------------------LDA result--------------------------------
 
 Topic0
@@ -33,8 +34,11 @@ as shown in red box, except 'Labor' (one determine word) itself, the most 5 comm
 and the number after each words is shown how many times a context word shown around labor.
 
 The 5 determine words of dorminant topic are [['labor', 'morrison', 'election', 'coalition', 'shorten']].
+
 ----------------------------------------------------------------------------------------------
+
 ---------------------------The most common context words for each determine words shown as below--------------------------
+
 labor
 Counter({'Labor': 138, 'leader': 12, 'win': 10, 'seats': 8, 'victory': 7, 'Party': 7, 'next': 7, 'Shorten': 6, '$1': 6, -
 -----------------------------------------------------------------------------------------------------
